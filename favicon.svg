@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
+  <title>용강 유흥 시간대 선택</title>
+  <rect width="64" height="64" rx="15" fill="hsl(75 64% 30%)"/>
+  <g transform="rotate(0 32 32)"><path d="M32 14 52 48H12Z" fill="none" stroke="hsl(75 24% 96%)" stroke-width="8" stroke-linejoin="round"/><path d="M32 30 41 46H23Z" fill="hsl(202 68% 58%)"/></g>
+</svg>
